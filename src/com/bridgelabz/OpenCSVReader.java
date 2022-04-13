@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 import java.util.List;
 
 public class OpenCSVReader {
-    private static final String SAMPLE_CSV_FILE_PATH = "F:\\address-book-system-csv-json\\users.csv";
+    private static final String SAMPLE_CSV_FILE_PATH = "C:\\Users\\singh\\IdeaProjects\\addressbooksystem28\\src\\com\\bridgelabz\\users.csv";
 
     public static void main(String[] args) throws IOException {
         try (
